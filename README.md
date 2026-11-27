@@ -14,3 +14,16 @@ entendido mejor cómo funciona, realmente es una herramienta muy útil y necesar
 
 ---
 *Escrito el 21/9/26 — estén atentos a próximas actualizaciones :)*
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Oficialmente pase DDYA, fue duro pero se logro, se aprendió, se lucho, bastantes cosas por reforzar para el próximo semestre pero agradecido de haber sobrevivido a DDYA.
+
+Al inicio del semestre no pensé que fuera capaz, veía lo que me esperaba y creía que no seria capaz, solo tenia que confiar, al final todo se dio y MYSD, VOY POR TI.
+
+Este repositorio esta relacionado con el repositorio *MethaneZero-AI*, el proyecto que trabajamos con mi grupo durante el semestre.
+
+Espero que este repositorio le pueda servir a otros estudiantes que cursen esta materia, mucha fortaleza ingenieros, pueden con esto y mucho más, confíen...
+
+---
+*Escrito el 27/11/26 :)*
